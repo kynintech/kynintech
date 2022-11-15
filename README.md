@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Homelab](https://github.com/kynintech/LABURL)
-  - [Hello World!](https://github.com/kynintech/LABURL)
+  - [Active Directory Homelab](https://github.com/kynintech/ActiveDirectoryLab)
+  - [Hello World!](https://github.com/kynintech/ActiveDirectoryLab)
   
 <h2>📄Certifications</h2>
 
